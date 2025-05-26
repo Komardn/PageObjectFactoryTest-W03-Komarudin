@@ -1,0 +1,12 @@
+com\juaracoding\test\ScreenshotHelper.class
+com\juaracoding\test\pages\HomePage.class
+com\juaracoding\test\tests\LoginTest.class
+com\juaracoding\test\DriverSingleton.class
+com\juaracoding\test\tests\AddToCartTest.class
+com\juaracoding\test\tests\CheckoutTest.class
+com\juaracoding\test\App.class
+com\juaracoding\test\TestListener.class
+com\juaracoding\test\BaseTest.class
+com\juaracoding\test\BrowserManager.class
+com\juaracoding\test\pages\CheckoutPage.class
+com\juaracoding\test\pages\LoginPage.class

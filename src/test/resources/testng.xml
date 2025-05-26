@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Saucedemo Suite">
+    <listeners>
+        <listener class-name="com.juaracoding.test.TestListener"/>
+    </listeners>
+    <test name="Regression">
+        <classes>
+            <class name="com.juaracoding.test.tests.LoginTest"/>
+            <class name="com.juaracoding.test.tests.AddToCartTest"/>
+            <class name="com.juaracoding.test.tests.CheckoutTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-26T23:05:40 WIB" name="Saucedemo Suite" finished-at="2025-05-26T23:05:56 WIB" duration-ms="16387">
+    <groups>
+    </groups>
+    <test started-at="2025-05-26T23:05:40 WIB" name="Regression" finished-at="2025-05-26T23:05:56 WIB" duration-ms="16387">
+      <class name="com.juaracoding.test.tests.AddToCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.test.tests.AddToCartTest@78e117e3]" started-at="2025-05-26T23:05:47 WIB" name="setup" finished-at="2025-05-26T23:05:51 WIB" duration-ms="3420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddToCart()[pri:0, instance:com.juaracoding.test.tests.AddToCartTest@78e117e3]" started-at="2025-05-26T23:05:51 WIB" name="testAddToCart" description="Tambah satu produk ke cart" finished-at="2025-05-26T23:05:51 WIB" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.juaracoding.test.tests.AddToCartTest@78e117e3]" started-at="2025-05-26T23:05:51 WIB" name="tearDown" finished-at="2025-05-26T23:05:51 WIB" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.juaracoding.test.tests.AddToCartTest -->
+      <class name="com.juaracoding.test.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.test.tests.LoginTest@1a04f701]" started-at="2025-05-26T23:05:40 WIB" name="setup" finished-at="2025-05-26T23:05:46 WIB" duration-ms="6520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin()[pri:0, instance:com.juaracoding.test.tests.LoginTest@1a04f701]" started-at="2025-05-26T23:05:46 WIB" name="testValidLogin" description="Login valid ke Saucedemo" finished-at="2025-05-26T23:05:47 WIB" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.juaracoding.test.tests.LoginTest@1a04f701]" started-at="2025-05-26T23:05:47 WIB" name="tearDown" finished-at="2025-05-26T23:05:47 WIB" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.juaracoding.test.tests.LoginTest -->
+      <class name="com.juaracoding.test.tests.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.test.tests.CheckoutTest@2ea227af]" started-at="2025-05-26T23:05:51 WIB" name="setup" finished-at="2025-05-26T23:05:55 WIB" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCheckout()[pri:0, instance:com.juaracoding.test.tests.CheckoutTest@2ea227af]" started-at="2025-05-26T23:05:55 WIB" name="testCheckout" description="Checkout setelah add to cart" finished-at="2025-05-26T23:05:56 WIB" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.juaracoding.test.tests.CheckoutTest@2ea227af]" started-at="2025-05-26T23:05:56 WIB" name="tearDown" finished-at="2025-05-26T23:05:56 WIB" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.juaracoding.test.tests.CheckoutTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Saucedemo Suite -->
+</testng-results>
